@@ -1,3 +1,4 @@
 Rencana konnten r86
 - Tetapkan Design
-- Tetapkan Harga
+- Tentukan Warna Dasar
+- Tentukan Warna Secondary
